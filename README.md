@@ -26,7 +26,6 @@ They are registered in `notifications/signals.py`, which is imported from
 `NotificationsConfig.ready()`.
 
 `signals_demo` runs through all of it and prints the SQL for each step.
-See REPORT_SIGNALS.md for what each receiver does and sample output.
 
 ## Layout
 
